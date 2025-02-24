@@ -18,7 +18,7 @@ and maps each row to a tag based on a [lookup table](./lookup.csv).
 ## Usage
 
 ```bash
-python3 parse_flow_logs.py
+python3 flow_logs_codebase.py
 ```
 
 The program will read the flow logs from `flowlogs.txt` and the lookup table
