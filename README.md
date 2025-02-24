@@ -66,7 +66,7 @@ Ensure the required input files exist in the project directory:
 Run the script to process the logs:
 
 ```bash
-python3 parse_flow_logs.py
+python3 flow_logs_codebase.py
 ```
 
 ### **Step 6: Check the Output**
